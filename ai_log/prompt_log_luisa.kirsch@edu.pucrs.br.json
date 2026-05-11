@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "2026-05-10T17:00:00+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-10T17:00:00.000Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/210e5d62-a986-4494-a3d1-82bd9019c6ca.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "Como eu faço um front-end de login usando React e TypeScript com Material UI? Preciso que tenha campos para e-mail e senha, um botão de entrar e que o estilo seja grande, focado em acessibilidade para idosos."
+  },
+  {
+    "timestamp": "2026-05-10T18:27:21+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-10T18:27:21.336Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/210e5d62-a986-4494-a3d1-82bd9019c6ca.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "Como consertar este erro? Estou tentando passar valores para o meu componente e o TypeScript está dando um erro de 'IntrinsicAttributes' com uma linha vermelha embaixo."
+  },
+  {
+    "timestamp": "2026-05-10T18:53:58+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-10T18:53:58.370Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/210e5d62-a986-4494-a3d1-82bd9019c6ca.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "No botão de esconder e mostrar a senha, eu gostaria que ele ficasse com um contorno cinza para aparecer melhor. Como eu faço isso?"
+  },
+  {
+    "timestamp": "2026-05-10T18:58:14+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-10T18:58:14.784Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/210e5d62-a986-4494-a3d1-82bd9019c6ca.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "Meu formulário está com um bug estranho: quando eu começo a digitar qualquer coisa nos campos, ele só deixa digitar uma letra e perde o foco. Eu preciso clicar no campo de novo para digitar a segunda letra, como arrumo isso?"
+  },
+  {
+    "timestamp": "2026-05-10T19:34:56+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-10T19:34:56.347Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/210e5d62-a986-4494-a3d1-82bd9019c6ca.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "Preciso criar duas novas telas para o meu projeto, seguindo o mesmo estilo da tela de login. A primeira é uma tela inicial com dois botões grandes (um para quem já tem conta e outro para quem não tem). A segunda é a tela de cadastro com nome, email, cpf, senha, confirmação de senha e um seletor de perfil (aluno, professor ou admin)."
+  },
+  {
+    "timestamp": "2026-05-11T01:17:52+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-11T01:17:52.465Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/5c8b763e-21bc-4b33-a832-8ccd534df381.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "Eu quero colocar aquele botão de mostrar/esconder senha na tela de cadastro também, igual eu fiz no login. Como faço para colocar isso nos campos de 'criar senha' e 'confirmar senha'?"
+  },
+  {
+    "timestamp": "2026-05-11T01:35:00+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-11T01:35:00.000Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/5c8b763e-21bc-4b33-a832-8ccd534df381.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "Meu arquivo LoginPage está ficando muito grande e confuso. Como eu faço para mover o Menu e o Cadastro para arquivos separados e fazer eles conversarem com a tela principal?"
+  },
+  {
+    "timestamp": "2026-05-11T01:50:00+00:00",
+    "git_branch": "feat/telas-auth",
+    "git_user_name": "Luísa Kirsch Silva Zarth",
+    "call_context": {
+      "timestamp": "2026-05-11T01:50:00.000Z",
+      "hook_event_name": "UserPromptSubmit",
+      "transcript_path": "/home/codespace/.vscode-remote/data/User/workspaceStorage/7c0c3e6b/GitHub.copilot-chat/transcripts/5c8b763e-21bc-4b33-a832-8ccd534df381.jsonl",
+      "cwd": "/workspaces/grupo-2-chave-mfe-auth/ai_log"
+    },
+    "prompt": "Para o meu trabalho, eu preciso que os tokens (access e refresh) fiquem salvos no navegador. Como eu organizo para o main.tsx saber quando o login ou o cadastro deram certo?"
+  }
+]
