@@ -88,7 +88,7 @@ export default function RegisterPanel({
 
     setLoading(true);
     try {
-      const resposta = await fetch("http://localhost:3001/register", {
+      const resposta = await fetch(`${import.meta.env.VITE_MS_AUTH_URL}/register`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
