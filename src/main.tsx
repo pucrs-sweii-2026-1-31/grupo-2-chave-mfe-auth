@@ -14,7 +14,7 @@ const handleAuthSuccess = (data: {
   const refreshToken = data.refresh_token;
 
   if (accessToken) {
-    localStorage.setItem("access_token", accessToken);
+    localStorage.setItem("token", accessToken);
   }
 
   if (refreshToken) {
