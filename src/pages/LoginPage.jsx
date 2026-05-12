@@ -26,8 +26,8 @@ export default function LoginPage({ onLogin }) {
       }
 
       const data = await res.json();
-      localStorage.setItem("token", data.token);
-      localStorage.setItem("refresh", data.refresh);
+      localStorage.setItem("token", data.acces_token);
+      localStorage.setItem("refresh", data.refresh_token);
       onLogin?.(data);
     } catch (err) {
       setError(err.message);
